@@ -15,6 +15,11 @@ Extension point registration:
 - K2 Frontend (FIR) extensions can be registered in `SimplePluginRegistrar`.
 - All other extensions (including K1 frontend and backend) can be registered in `SimplePluginComponentRegistrar`.
 
+## Documentation
+
+- Quick Start: see [QUICK_START.md](QUICK_START.md) for a concise overview and copy-pasteable commands.
+- Full Guide: see [GUIDE.md](GUIDE.md) for a step-by-step walkthrough building this template from scratch.
+
 ## Tests
 
 The [Kotlin compiler test framework][test-framework] is set up for this project.
